@@ -27,10 +27,8 @@
     "test.watch": "jest --watch"
   },
   "peerDependencies": {
-    "@stencil/core": ">=2.0.0 || >=3.0.0-beta.0 || >= 4.0.0-beta.0 || >= 4.0.0"
-  },
-  "dependencies": {
-    "sass-embedded": "^1.83.1"
+    "@stencil/core": ">=2.0.0 || >=3.0.0-beta.0 || >= 4.0.0-beta.0 || >= 4.0.0",
+    "sass-embedded": ">=1.0.0"
   },
   "devDependencies": {
     "@ionic/prettier-config": "^4.0.0",
